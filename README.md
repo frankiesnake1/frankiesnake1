@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @frankiesnake1
+- 👀 I’m interested in all languages :)
+- 🌱 I’m currently learning c++,java, python
+- 💞️ I’m looking to collaborate on an app for all smart devices
+- 📫 How to reach me just send a mail to: fra.lorti@icloud.com
